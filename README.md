@@ -43,6 +43,8 @@ Locked Use is now supported on macOS. `OCU` temporarily unlocks your Mac after i
 
 ![Open Computer Use Locked Use screen](./docs/assets/ocu-locked-use.webp)
 
+See the [Locked Use guide](docs/locked-use.en.md) for setup, installed components, and permissions
+
 ## Quick Start
 
 ```bash
@@ -109,8 +111,6 @@ You can also manually download and install the
 [`open-computer-use` skill](./skills/open-computer-use).
 
 ## More
-
-See the [Locked Use guide](docs/locked-use.en.md) for setup, installed components, and permissions.
 
 Besides the MCP JSON config above, you can also use the built-in commands:
 

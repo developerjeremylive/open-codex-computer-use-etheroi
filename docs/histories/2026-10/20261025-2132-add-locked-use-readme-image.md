@@ -19,6 +19,7 @@
 - 确认 `96d44ad` 的 README 配置整理只存在于 `codex/doctor-json-permissions` 分支，尚未进入 `main`；将其中的中英文全局配置段落迁移补回当前工作区，移除旧的持久化配置小节。
 - 按最新中文同步英文的精简范围，删除 DeepSeek Harness、JS / REPL、运行时细节、开发测试命令和定向查询介绍，保留相同的安装与调用示例及全局配置入口；Cursor Motion 小节随用户的最新版本移除。
 - 将 `ocu install-codex-mcp` 短命令示例对齐到 Quick Start。
+- 收入用户后续手动调整：将中英文 Locked Use 文档入口从“更多”移至对应演示图片下方。
 - 检查图片可解码、相对引用有效及 diff 格式。
 - 验证中英文章节结构与命令示例一致，`make check-docs` 和 `git diff --check` 通过。
 

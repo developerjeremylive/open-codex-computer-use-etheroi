@@ -40,6 +40,7 @@ https://github.com/user-attachments/assets/e036b1c8-2200-4896-abd4-19225915cf66
 ### Locked Use
 目前支持Locked Use，`OCU`会在锁屏之后临时解锁使用电脑（仅支持macOS），期间会有一系列的安全配套服务比如遮罩层来保证安全性
 ![Open Computer Use Locked Use screen](./docs/assets/ocu-locked-use.webp)
+Locked Use 的开启方式、安装组件和权限见[文档](docs/locked-use.zh-CN.md)
 
 ## Quick Start
 
@@ -104,8 +105,6 @@ npx skills update open-computer-use -g -y
 也可以手动下载 [`open-computer-use` skill](./skills/open-computer-use) 安装
 
 ## 更多
-
-Locked Use 的开启方式、安装组件和权限见[文档](docs/locked-use.zh-CN.md)。
 
 除了直接用上面的 MCP JSON 配置，你也可以用一些内置子命令：
 
